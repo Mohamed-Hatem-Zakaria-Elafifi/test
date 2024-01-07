@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour-App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alexandria_description">Alexandria is a Mediterranean port city in Egypt known for its rich history.</string>
+
+    <string name="aswan_description">Aswan is a city on the Nile River known for its ancient history and modern attractions.</string>
+
+    <string name="cairo_description">Cairo is the capital of Egypt and a bustling metropolis with a vibrant culture and historic landmarks.</string>
+
+    <string name="matrouh_description">Matrouh is a coastal city in Egypt, famous for its beautiful beaches and crystal-clear waters.</string>
+
+    <string name="hurghada_description">Hurghada is a resort town on the Red Sea coast, popular for its diving opportunities and vibrant nightlife.</string>
+
+</resources>
